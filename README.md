@@ -885,10 +885,6 @@ Overall, the repository provides a transparent, reproducible, and extensible imp
 
 **Hannah Fathi**
 
-M.Sc. Artificial Intelligence
-
-Shiraz University
-
 Research Interests:
 
 * Explainable AI
