@@ -883,15 +883,7 @@ Overall, the repository provides a transparent, reproducible, and extensible imp
 
 ## Author
 
-**Hannah Fathi**
-
-Research Interests:
-
-* Explainable AI
-* Computer Vision
-* Remote Sensing
-* Medical AI
-* Large Language Models
+**Hannah Fathi**: Medical AI · Computer Vision · Explainable AI · Reproducible research
 
 ---
 
